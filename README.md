@@ -1,4 +1,5 @@
-This BridgeThing app lets you view the AIDA64 RemoteSensor page through your CarThing
+This BridgeThing app lets you view the AIDA64 RemoteSensor page through your CarThing running BridgeThing.
+This was vibe coded with the help from Grok.
 
 <img width="1446" height="988" alt="image" src="https://github.com/user-attachments/assets/8196491a-4380-41e4-ab86-6cba70ddaee1" />
 
